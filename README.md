@@ -1,2 +1,3 @@
-# IoT-mPy-Sensors
-Reading Sensor Data using MicroPython
+# mPySensors
+Reading various IoT sensors using MicroPython
+
